@@ -3,6 +3,7 @@ import lastname_firstname
 import buchanan_richi
 import donnadio_mark
 import windsor_rigdon
+import diblasio_sonia
 import pugh_carson
 
 def introduce_yourself():
@@ -11,8 +12,8 @@ def introduce_yourself():
     buchanan_richi.say_hello()
     donnadio_mark.say_hello()
     windsor_rigdon.say_hello()
+    diblasio_sonia.say_hello()
     pugh_carson.say_hello()
-
 
 introduce_yourself()
 
