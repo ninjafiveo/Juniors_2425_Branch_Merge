@@ -5,8 +5,11 @@ import donnadio_mark
 import windsor_rigdon
 import diblasio_sonia
 import pugh_carson
+import simpson_brant
 
 def introduce_yourself():
+    sekol_michael.say_hello()
+    simpson_brant.say_hello()
     sekol_michael.say_hello()
     lastname_firstname.say_hello()
     buchanan_richi.say_hello()
