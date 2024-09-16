@@ -1,9 +1,7 @@
-import sekol_michael
-import lastname_firstname
+import Juniors_2425_Branch_Merge.Bogart_Kaleb as Bogart_Kaleb
 
 def introduce_yourself():
-    sekol_michael.say_hello()
-    lastname_firstname.say_hello()
+    Bogart_Kaleb.say_hello()
 
 introduce_yourself()
 
