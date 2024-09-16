@@ -10,7 +10,7 @@ import Wiseman_Nathan
 import diblasio_sonia
 import pugh_carson
 import simpson_brant
-
+import Farnsworth_Conner
 
 def introduce_yourself():
     Bogart_Kaleb.say_hello()
@@ -25,11 +25,6 @@ def introduce_yourself():
     Wiseman_Nathan.say_hello()
     diblasio_sonia.say_hello()
     pugh_carson.say_hello()
-
-
+    Farnsworth_Conner.say_hello()
+    
 introduce_yourself()
-
-
-
-
-
